@@ -1,5 +1,4 @@
-package pe.gob.mincetur.vuce.vc.domain.digemid;
-
+package pe.prueba.domain.dgm;
 public class DGM077MaterialEnvaseMed {
 
 	private Long dgm077Id;

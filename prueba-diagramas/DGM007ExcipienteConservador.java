@@ -1,5 +1,4 @@
-package pe.gob.mincetur.vuce.vc.domain.digemid;
-
+package pe.prueba.domain.dgm;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
